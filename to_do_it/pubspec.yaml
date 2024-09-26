@@ -1,0 +1,35 @@
+name: to_do_it
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.15 # For local storage of tasks
+  intl: ^0.17.0  # Add this line for date formatting
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.9.2
+
+
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logotdi.png  # Include the logo image
+
+flutter_icons:
+  android: "assets/images/logotdi.png" # Path to your logo image
+  ios: "assets/images/logotdi.png"     # Path to your logo image
