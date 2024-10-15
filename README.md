@@ -1,10 +1,10 @@
 Android app development internship provided by CODSOFT !
 
-I have completed the tasks assigned to me CODSOFT team. The 2 of them are:
+I have completed the tasks assigned to me by CODSOFT team. The 2 of them are:
 
-A TO-DO list app
+- TO-DO list app
 
-  - Which allows users to add, edit, and delete tasks.-
+  - Which allows users to add, edit, and delete tasks.
   - Implement features like task priorities, due dates, and task completion status.
   - Home Screen: Display a list of tasks with titles and completion status.
   - Task Creation: Allow users to add new tasks with titles and optional descriptions.
@@ -15,7 +15,7 @@ A TO-DO list app
   - User Interface: Design an intuitive and user-friendly interface.
 
 
-A Quote of the day app
+- Quote of the day app
 
    - That displays a new inspiring quote or message each day.
    - Allow users to share their favorite quotes with others.
